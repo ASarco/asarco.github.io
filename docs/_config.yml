@@ -21,7 +21,7 @@
 title: El Pool AUSTRAL
 email: ale@sarco.com.ar
 description: >- # this means to ignore newlines until "baseurl:"
-AUSTRAL es el pool en español para toda Sudamérica
+  AUSTRAL es el pool en español para toda Sudamérica
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.stakepool.ar" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: asarco_es_ar
