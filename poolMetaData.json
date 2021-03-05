@@ -2,5 +2,6 @@
 "name": "El ADA Pool AUSTRAL ",
 "description": "ADA AUSTRAL es el pool en español para toda Sudamérica",
 "ticker": "ADAUS",
-"homepage": "https://www.stakepool.ar"
+"homepage": "https://docs.stakepool.ar",
+"extended": "https://asarco.github.io/extended.json"
 }
