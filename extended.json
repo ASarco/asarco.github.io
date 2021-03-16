@@ -35,24 +35,19 @@
       "0":"0969b78926481d5e944e5f680f04611c16e1120d57da58056be55f5bf"
    },
    "telegram-admin-handle":{
-      "0":"mnmnmnmnnmn"
+      "0":"@alesarco"
    },
    "adapools_ext":{
       "prometheus":{
          "0":{
-            "name":"relay 1 usa",
+            "name":"relay 1",
             "type":"relay",
-            "key":"1fe79a1c36536e9a0e8400fc0f2a016a"
+            "key":"6855d6ab69c4828727e0af91e017d179"
          },
          "1":{
-            "name":"relay 2 usa",
-            "type":"relay",
-            "key":"example_get_own_on_adapools.org/connect"
-         },
-         "2":{
-            "name":"block producer home",
+            "name":"block producer",
             "type":"bp",
-            "key":"19a0db52bad9952c1f67fa688e221d0a"
+            "key":"104047452f893d25a5a068e4d143a4c2"
          }
       }
    }
